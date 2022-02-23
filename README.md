@@ -1,4 +1,4 @@
-### Olá!
+### Olá! Seja Bem vindo(a)!
 🌱 Estou estudando desenvolvimento web, porém já possuo alguns projetos que estão no meu repositório. 😄
 
 <!--
