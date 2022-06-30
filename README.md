@@ -1,5 +1,5 @@
 ### Olá! Seja Bem vindo(a)!
-🌱 Estou estudando desenvolvimento web, porém já possuo alguns projetos que estão no meu repositório. 😄
+🌱  😄
 
 <!--
 **Caio-Bortolini/Caio-Bortolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
